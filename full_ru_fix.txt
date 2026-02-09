@@ -1,0 +1,113 @@
+# ==========================================
+# AI & NEURAL NETWORKS (ChatGPT, Claude, Gemini, etc)
+# ==========================================
+45.155.204.190 openai.com
+45.155.204.190 chatgpt.com
+45.155.204.190 oaistatic.com
+45.155.204.190 oaiusercontent.com
+45.155.204.190 anthropic.com
+45.155.204.190 claude.ai
+45.155.204.190 cdn.anthropic.com
+45.155.204.190 bard.google.com
+45.155.204.190 gemini.google.com
+45.155.204.190 copilot.microsoft.com
+45.155.204.190 bing.com
+45.155.204.190 perplexity.ai
+45.155.204.190 midjourney.com
+45.155.204.190 discord.com
+45.155.204.190 discord.gg
+45.155.204.190 gateway.discord.gg
+45.155.204.190 cdn.discordapp.com
+
+# ==========================================
+# DEV TOOLS & REPOS (Docker, Hashicorp, Atlassian)
+# ==========================================
+45.155.204.190 hub.docker.com
+45.155.204.190 auth.docker.io
+45.155.204.190 registry-1.docker.io
+45.155.204.190 production.cloudflare.docker.com
+45.155.204.190 hashicorp.com
+45.155.204.190 releases.hashicorp.com
+45.155.204.190 terraform.io
+45.155.204.190 vagrantup.com
+45.155.204.190 jetbrains.com
+45.155.204.190 download.jetbrains.com
+45.155.204.190 plugins.jetbrains.com
+45.155.204.190 atlassian.com
+45.155.204.190 bitbucket.org
+45.155.204.190 jira.com
+45.155.204.190 trello.com
+45.155.204.190 gitlab.com
+45.155.204.190 code.visualstudio.com
+
+# ==========================================
+# DRIVERS & HARDWARE (Intel, Nvidia, Oracle)
+# ==========================================
+45.155.204.190 intel.com
+45.155.204.190 downloadmirror.intel.com
+45.155.204.190 nvidia.com
+45.155.204.190 developer.nvidia.com
+45.155.204.190 oracle.com
+45.155.204.190 java.com
+45.155.204.190 amd.com
+45.155.204.190 dell.com
+45.155.204.190 cisco.com
+
+# ==========================================
+# DESIGN & PRODUCTIVITY (Notion, Figma, Canva)
+# ==========================================
+45.155.204.190 notion.so
+45.155.204.190 msgstore.www.notion.so
+45.155.204.190 figma.com
+45.155.204.190 static.figma.com
+45.155.204.190 canva.com
+45.155.204.190 grammarly.com
+45.155.204.190 grammarly.io
+45.155.204.190 medium.com
+45.155.204.190 quora.com
+45.155.204.190 slack.com
+
+# ==========================================
+# SOCIAL & NEWS (Insta, Twitter, LinkedIn)
+# ==========================================
+45.155.204.190 instagram.com
+45.155.204.190 cdninstagram.com
+45.155.204.190 facebook.com
+45.155.204.190 fbcdn.net
+45.155.204.190 threads.net
+45.155.204.190 twitter.com
+45.155.204.190 x.com
+45.155.204.190 twimg.com
+45.155.204.190 t.co
+45.155.204.190 linkedin.com
+45.155.204.190 licdn.com
+45.155.204.190 meduza.io
+45.155.204.190 dw.com
+45.155.204.190 bbc.co.uk
+45.155.204.190 zona.media
+45.155.204.190 theins.ru
+
+# ==========================================
+# TORRENTS & TRACKERS
+# ==========================================
+45.155.204.190 rutracker.org
+45.155.204.190 rutracker.net
+45.155.204.190 bt2.t-ru.org
+45.155.204.190 nnmclub.to
+45.155.204.190 rutor.info
+45.155.204.190 rutor.is
+45.155.204.190 pornhub.com
+
+# ==========================================
+# YOUTUBE (Experimental)
+# Если видео не грузится - удалите googlevideo.com
+# ==========================================
+45.155.204.190 youtube.com
+45.155.204.190 www.youtube.com
+45.155.204.190 m.youtube.com
+45.155.204.190 youtu.be
+45.155.204.190 ytimg.com
+45.155.204.190 s.ytimg.com
+45.155.204.190 i.ytimg.com
+45.155.204.190 ggpht.com
+45.155.204.190 nhacmp3youtube.com
